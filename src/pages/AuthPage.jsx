@@ -68,7 +68,7 @@ export default function AuthPage() {
 
                 <Col sm={5} className="d-grid gap-2">
                     <Button className="rounded-pill" variant="outline-dark">
-                        <i className="bi bi-google"> </i> Sign up with google
+                        <i className="bi bi-google"> </i> Sign up with Google
                     </Button>
                     <Button className="rounded-pill" variant="outline-dark">
                         <i className="bi bi-apple"> </i> Sign up with Apple
